@@ -11,6 +11,12 @@ public class login {
         String barabula = "Catalina";
 
             //add from GitHub HelloWord2
+<<<<<<< HEAD
 
+=======
+        
+        
+        String lastUpdate = "HELLO AGAIN FROM GIT";
+>>>>>>> bc7fbc91012c63101e0627dbd3682b54c5e9d851
     }
 }
